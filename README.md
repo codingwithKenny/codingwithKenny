@@ -18,9 +18,9 @@ Welcome to my GitHub! I’m a Full Stack Developer passionate about crafting cle
 - Advanced AI-powered frontend development  
 
 ## 📫 How to reach me
-- Email: [your.email@example.com](mailto:okunlolaridwanat@gmail.com)  
-- LinkedIn: [linkedin.com/in/codingwithkenny](https://www.linkedin.com/in/ridwat-okunlola-9b44ab223)  
-- Twitter: [@codingwithKenny](https://x.com/ridwat_kenny)  
+- Email: [okunlolaridwanat@gmail.com](mailto:okunlolaridwanat@gmail.com)  
+- LinkedIn: [ridwat-okunlola](https://www.linkedin.com/in/ridwat-okunlola-9b44ab223)  
+- Twitter: [@ridwat_kenny](https://x.com/ridwat_kenny)     
 
 ## ⚡ Fun fact
 When I’m not coding, I enjoy solving puzzles, playing chess, and exploring new tech trends.
