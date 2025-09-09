@@ -24,9 +24,8 @@ By leveraging **JavaScript (React, Next.js, Node.js), Python, SQL, and cloud ser
 ## 🚀 Projects & Portfolio  
 I’ve built projects ranging from:  
 - [Automated Reaching out Tools](https://github.com/codingwithKenny/Reachio-Frontend)   
-- **Functioning webApp With Payment Integration(Stripe and Paystack)**
-- [Telecommunication-website](https://github.com/codingwithKenny/Tel-Comunication-App-Front-End)
-- [Ecommerce Website](https://github.com/codingwithKenny/RiddyStore) using Python and Stata.
+- [Telecommunication-website](https://github.com/codingwithKenny/Tel-Comunication-App-Front-End) Using React and **paystack integration**
+- [Ecommerce Website](https://github.com/codingwithKenny/RiddyStore) using Nextjs with **stripe integration.**
 - **And Many More...**
 
 ---
